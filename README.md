@@ -1,1 +1,1 @@
-# html-image-tag-generator
+# HTML Image Tag Generator
